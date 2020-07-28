@@ -1,5 +1,9 @@
-# About me 👋
-
+# Danillo Coradello - @Danillonc 👋
+  I'm a Java developer working on JavaEE plataform since 2011 and year by year I've been studying a lot of languages in tech world. I've worked with frontend libs React/Angular but now I'm back to backend again the darkside of power!!! 
+  Almost a year I've discovered Kotlin and I need to say for everyone that is incredible language.
+  
+  # How I work actually
+  Now I've been working in microservices archtectures as backend developer with Java and Kotlin. I'am a Software Engineer at Banco Votorantim developing APIs.
 <!--
 **Danillonc/Danillonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
