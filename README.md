@@ -1,5 +1,5 @@
 # Danillo Coradello - @Danillonc 👋
-  I'm a Java developer working on JavaEE plataform since 2011 and year by year I've been studying a lot of languages in tech world. I've worked with frontend libs React/Angular but now I'm back to backend again the darkside of power!!! 
+  I'm a Java developer working on JavaEE plataform over 8 years and year by year I've been studying a lot of languages in tech world. I've worked with frontend libs React/Angular but now I'm back to backend again the darkside of power!!! 
   Almost a year I've discovered Kotlin and I need to say for everyone that is incredible language.
   
 # How I work actually
